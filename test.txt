@@ -3,3 +3,4 @@ Git is free software distributed under the GPL.
 Delete file.
 test feature.
 test no-fast.
+test push.
